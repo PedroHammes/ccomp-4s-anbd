@@ -21,4 +21,4 @@ def verify (y):
         return print("Não bissexto")
 
 
-validate() 
+validate()
