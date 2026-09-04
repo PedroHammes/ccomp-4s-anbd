@@ -1,3 +1,5 @@
+import math
+
 def exponencial(a, b):
     return a**b
 
